@@ -12,7 +12,7 @@
 | | | |
 | :--- | :--- | :--- |
 | *Multi-objective Bayesian optimization for design of Pareto-optimal current drive profiles in STEP* | IEEE Transactions on Plasma Science (2023) | [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10507168) • [💻 Code](https://github.com/theo-brown/jetto-mobo) |
-| *Sample-efficient Bayesian Optimisation Using Known Invariances* | NeurIPS (2024) | [📄 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/55aeba84b402008d3ed10440d906b4e1-Abstract-Conference.html) • [💻 Code](https://github.com/theo-brown/bayesopt_with_invariances) |
+| *Sample-efficient Bayesian optimisation using known invariances* | NeurIPS (2024) | [📄 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/55aeba84b402008d3ed10440d906b4e1-Abstract-Conference.html) • [💻 Code](https://github.com/theo-brown/bayesopt_with_invariances) |
 
 ### 📦 Maintained Packages
 
