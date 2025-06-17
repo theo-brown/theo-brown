@@ -1,12 +1,14 @@
 ### 🚀 Open Source Contributions
 
--   **[TORAX](https://github.com/google-deepmind/torax)**: Google DeepMind's tokamak transport simulator.
-    -  *Extending capabilities to model spherical tokamaks*
-    -  *Developing optimisation and control routines*
-    -  *Integrating with and benchmarking against other codes*
--   **[GPJax](https://github.com/JaxGaussianProcesses/GPJax)**: A library for Gaussian Processes in JAX.
-    -   *Improving core fitting routines and enhancing flexibility*
-    -   *Developing new tools for Bayesian optimisation*
+**[TORAX](https://github.com/google-deepmind/torax)**: Google DeepMind's tokamak transport simulator.
+
+- *Extending capabilities to model spherical tokamaks*
+-  *Developing optimisation and control routines*
+-  *Integrating with and benchmarking against other codes*
+    
+**[GPJax](https://github.com/JaxGaussianProcesses/GPJax)**: Gaussian Processes in JAX/Flax.
+-   *Improving core fitting routines and enhancing flexibility*
+-   *Developing new tools for Bayesian optimisation*
 
 ### 📝 Publications
 | | | |
@@ -16,4 +18,4 @@
 
 ### 📦 Maintained Packages
 
--   [![PyPI version](https://badge.fury.io/py/invariantkernels.svg)](https://pypi.org/project/invariantkernels/) **`invariantkernels`**: Group-invariant kernels for symmetry-aware GPs in GPyTorch.
+[![PyPI version](https://badge.fury.io/py/invariantkernels.svg)](https://pypi.org/project/invariantkernels/) **`invariantkernels`**: Group-invariant kernels for symmetry-aware GPs in GPyTorch.
